@@ -121,8 +121,13 @@ FinSight is a comprehensive **financial time-series analysis** project built usi
 
 ## Project Structure
 FinSight/
+
 │
+
 ├── TCS_Stock_Analysis.ipynb
+
 ├── TCS_Original_Raw_Data.csv
+
 ├── TCS_Adjusted_Stock_Analysis_1.csv
+
 └── README.md
